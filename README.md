@@ -1,2 +1,2 @@
-# sha-test-1760561319
-Auto-generated application
+# repo test
+This is a test repo created by test script.
